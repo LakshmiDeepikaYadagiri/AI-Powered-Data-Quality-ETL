@@ -1,0 +1,5 @@
+order_id,customer_name,product,quantity,price,rejection_reason
+1011,,Keyboard,2,45,Missing customer name; 
+1021,Customer_1021,Laptop,4,-50,Invalid price; 
+1031,Customer_1031,Headphones,0,80,Invalid quantity; 
+1061,Customer_1061,Keyboard,4,45,Duplicate record; 

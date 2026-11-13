@@ -1,0 +1,12 @@
+
+order_id,customer_name,product,quantity,price
+101,Ravi,Laptop,1,750
+102,Priya,Mouse,2,25
+103,Anjali,Keyboard,1,45
+104,Rahul,Monitor,1,200
+105,,Laptop,1,750
+106,Deepa,Mouse,3,25
+106,Deepa,Mouse,3,25
+107,Kiran,Keyboard,2,-40
+108,Sneha,Monitor,1,200
+109,Arjun,Laptop,1,750
